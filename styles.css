@@ -472,7 +472,7 @@ section {
 /* Ten-10 */
 /* Footer */
 footer {
-    width: 100%;
+    
     display: flex;
     justify-content: space-between;
     background-color: #031923;
