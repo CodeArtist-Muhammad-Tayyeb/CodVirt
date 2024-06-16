@@ -6,11 +6,8 @@
 }
 
 body {
-
     background-color: #e7f4e2;
 }
-
-
 nav { 
     display: flex;
     justify-content: space-between;
@@ -88,7 +85,7 @@ section {
     width: 100%;
     display: grid;
     text-align: center;
-    transition: all 1.5s ease;
+    transition: all 2.5s ease-in-out;
 
 }
 
